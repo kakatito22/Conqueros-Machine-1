@@ -9,4 +9,5 @@ This machine it's perfect for interactuate whith somes attacks sheds and improve
 
 May the force accompany you in the conquest of the empire.
 
-
+![alt text](https://drive.google.com/open?id=1Zil2WajgODyZww3kRCQmGTE13pO5SgBH)
+![alt text](https://github.com/kakatito22/Conqueros-Machine-1/edit/master/logo.png)
