@@ -9,8 +9,8 @@ This machine it's perfect for interactuate whith somes attacks sheds and improve
 
 May the force accompany you in the conquest of the empire.
 
-<a href="https://drive.google.com/open?id=1Zil2WajgODyZww3kRCQmGTE13pO5SgBH" title="Download Mirror 1">Download Mirror 1 ||       </a>
-<a href="https://mega.nz/#!OcwWECBT!jTZVR1a4VtlL2KYnnqIH1vHIqAgzdt6qg7AiDAI7K1U" title="Download Mirror 2">Download Mirror 2</a>
+<a href="https://drive.google.com/open?id=1B1v2Xc-beshdrM6oih3FdkqHh1RX64W-" title="Download Mirror 1">Download Mirror 1 ||       </a>
+<a href="https://mega.nz/#!KUgyXCgJ!8974_PhknWyxq5pOy4yDyTPcfez5Rp_Ok5hurhFHI0o" title="Download Mirror 2">Download Mirror 2</a>
 <br/><br/>
 ![alt text](https://github.com/kakatito22/Conqueros-Machine-1/blob/master/LOGO.png)
 
