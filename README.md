@@ -13,7 +13,9 @@ May the force accompany you in the conquest of the empire.
 <a href="https://mega.nz/#!KUgyXCgJ!8974_PhknWyxq5pOy4yDyTPcfez5Rp_Ok5hurhFHI0o" title="Download Mirror 2">Download Mirror 2</a>
 <br/><br/>
 ![alt text](https://github.com/kakatito22/Conqueros-Machine-1/blob/master/LOGO.png)
-
+<br/><br/>
+<h1 style="color:red;">WRITE UP's<h1/>
+<br/>
 <a href="https://buscandofallos.wordpress.com/" title="Write Up">Write Up Dani[ESP]</a>
 <br/>
 <a href="https://rubenpalenque.wordpress.com/2017/12/09/conqueros-machine-1/" title="Write Up">Write Up Rubén[ESP]</a>
