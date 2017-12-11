@@ -14,7 +14,7 @@ May the force accompany you in the conquest of the empire.
 <br/><br/>
 ![alt text](https://github.com/kakatito22/Conqueros-Machine-1/blob/master/LOGO.png)
 <br/><br/>
-<h1 style="color:red;">WRITE UP's<h1/>
+<h1 style="color:red;">WRITE UP's</h1>
 <br/>
 <a href="https://buscandofallos.wordpress.com/" title="Write Up">Write Up Dani[ESP]</a>
 <br/>
